@@ -9,11 +9,30 @@ Este repositorio contiene prácticas organizadas para reforzar los fundamentos d
 - [Forms](documentation/forms.md)
 - [Patterns](documentation/patterns.md)
 
-## 📦 Módulos prácticos
+## 🧠 Estructura del Proyecto
 
-- Routing
-- Hooks
-- Forms
-- Mini proyectos
+El laboratorio está organizado por módulos dentro de `src/modules`:
 
-Cada módulo es independiente.
+- [Router Module](src/modules/router/)
+- [Hooks Module](src/modules/hooks/)
+- [Forms Module](src/modules/forms/)
+- [Mini Projects](src/mini-projects/)
+
+Cada módulo contiene prácticas independientes enfocadas en un concepto específico.
+
+---
+
+## 🎯 Objetivo
+
+- Reforzar fundamentos
+- Practicar arquitectura limpia
+- Documentar aprendizajes
+- Construir base sólida antes de proyectos grandes
+
+---
+
+## 🛠 Stack
+
+- React
+- TypeScript
+- Vite
