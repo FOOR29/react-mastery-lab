@@ -1,8 +1,10 @@
-import React from 'react'
+import AppRouterBasic from "./modules/router/basic-routing/AppRouterBasic"
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <AppRouterBasic/>
+    </div>
   )
 }
 
