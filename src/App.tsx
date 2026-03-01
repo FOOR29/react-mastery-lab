@@ -1,3 +1,4 @@
+import AppPelis from "./mini-projects/Pelis/AppPelis"
 import AppRouterBasic from "./modules/router/basic-routing/AppRouterBasic"
 import AppDynamic from "./modules/router/react-router-dynamic/AppDynamic"
 import AppNavigate from "./modules/router/react-router-useNavigate/AppNavigate"
@@ -7,7 +8,8 @@ const App = () => {
     <div>
       {/* <AppRouterBasic/> */}
       {/* <AppDynamic/> */}
-      <AppNavigate/>
+      {/* <AppNavigate/> */}
+      <AppPelis/>
     </div>
   )
 }
